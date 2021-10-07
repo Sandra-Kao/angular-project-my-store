@@ -1,4 +1,9 @@
-<<<<<<< HEAD
+
+<img src="https://github.com/Sandra-Kao/angular-project-my-store/blob/master/src/img/chrome_rAvsJF8UgI.png" width="20%" >
+<img src="https://github.com/Sandra-Kao/angular-project-my-store/blob/master/src/img/chrome_7gBjl2MYJE.png" width="20%" >
+<img src="https://github.com/Sandra-Kao/angular-project-my-store/blob/master/src/img/chrome_4g8IIG0VOG.png" width="20%" >
+
+
 # ProjectMyStore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
@@ -26,7 +31,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-=======
+
 # angular-aebvww
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-aebvww)
